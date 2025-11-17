@@ -7,7 +7,7 @@
       <ul>
       <li>☁️ I work on <strong>GCP Azure Aws | Terraform | Docker | Kubernetes | CI/CD | GitHub Actions </strong></li>
         <li>🔐 Passionate about <strong>Cloud Security</strong> & DevSecOps automation</li>
-        <li>🧠 Exploring <strong>GKE,AKS, monitoring, and production-ready pipelines</strong></li>
+        <li>🧠 Exploring <strong>GKE, AKS, monitoring, and production-ready pipelines</strong></li>
         <li>📫 Reach me at: <strong>sujeetkushwaha14@gmail.com</strong></li>
         <li>🔗 Portfolio: <a href="https://sujeetkushwaha14.github.io" target="_blank"><strong>sujeetkushwaha14.github.io</strong></a></li>        
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>

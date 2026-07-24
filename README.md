@@ -77,7 +77,7 @@
 
 ### 🎯 Fun Fact
 
-> "I don't just write code — I engineer secure and scalable solutions 🚀."
+ "I don't just write code — I engineer secure and scalable solutions 🚀."
 
 ---
 

@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
-<h3 align="center">🚀 DevOps Engineer<strong> @ Republic World</strong></li> </h3>
+<h3 align="center">🚀 DevOps Engineer @ Republic World</h3>
 
 <table>
   <tr>
     <td width="65%">
       <ul>
-      <li>☁️ I work on <strong>GCP Azure Aws | Terraform | Docker | Kubernetes | CI/CD | GitHub Actions </strong></li>
+      <li>☁️ I work on <strong>GCP, Azure, Aws | Terraform | Docker | Kubernetes | CI/CD | GitHub Actions </strong></li>
         <li>🔐 Passionate about <strong>Cloud Security</strong> & DevSecOps automation</li>
-        <li>🧠 Exploring <strong>GKE, AKS, monitoring, and production-ready pipelines</strong></li>
+        <li>🧠 Exploring <strong>GKE, AKS, EKS, monitoring, and production-ready pipelines</strong></li>
         <li>📫 Reach me at: <strong>sujeetkushwaha14@gmail.com</strong></li>
         <li>🔗 Portfolio: <a href="https://sujeetkushwaha14.github.io" target="_blank"><strong>sujeetkushwaha14.github.io</strong></a></li>        
         <li>👀 Visitors count : <img src="https://visitor-badge.laobi.icu/badge?page_id=Sujeetkushwaha14&left_color=blue&right_color=green"/></li>
       </ul>
     </td>    
     <td>
-      <img src="https://github.com/Sujeetkushwaha14/sujeetkushwaha14.github.io/raw/main/assets/Devops%20animation.gif" width="300px" alt="DevOps Animation"/>
+      <img src="https://github.com/Sujeetkushwaha14/sujeetkushwaha14.github.io/raw/main/assets/Devops-animat.gif" width="300px" alt="DevOps Animation"/>
     </td>
   </tr>
 </table>
@@ -57,11 +57,20 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeetkushwaha14&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetkushwaha14&layout=compact&theme=tokyonight" height="180"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujeetkushwaha14&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujeetkushwaha14&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sujeetkushwaha14&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujeetkushwaha14&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujeetkushwaha14&theme=github_dark" />
 </p>
 
 ---

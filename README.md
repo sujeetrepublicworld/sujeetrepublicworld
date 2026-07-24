@@ -60,17 +60,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujeetkushwaha14&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujeetkushwaha14&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujeetkushwaha14&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sujeetkushwaha14&theme=github_dark&utcOffset=5.5" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujeetkushwaha14&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujeetkushwaha14&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujeetkushwaha14&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujeetkushwaha14&theme=github_dark" />
+  <!-- <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sujeetkushwaha14&theme=github_dark&utcOffset=5.5" /> -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujeetkushwaha14&theme=github_dark" />
 </p>
 
 ---
